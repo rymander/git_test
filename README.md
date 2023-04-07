@@ -4,3 +4,5 @@ it is july 29, 2022 and I am relearning git to redo the foundations course in th
 
 
 It is April 6 2023 I am back learning Vim and relearning everything I learned last year due to having 7 months off.
+
+I'm showing this to Maria in bed.
